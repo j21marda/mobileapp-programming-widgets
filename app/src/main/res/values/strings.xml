@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Widgets</string>
+    <string name="textview">Calender</string>
+    <string name="button">Send</string>
 </resources>
