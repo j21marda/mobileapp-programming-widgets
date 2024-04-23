@@ -35,11 +35,11 @@ att ursprungliga positionen ändrats).
         android:text="@string/button"
         android:layout_gravity="center"/>
 ```
-För att ändra positionen i textview var det android:margin som möjligjorde detta. 
+För att ändra positionen i textview var det layout_margin som möjligjorde detta. 
 ```
 android:layout_margin="25dp"
 ```
-För att ändra positionen i datepicker samt button var det android:layout_gravity som möjligjorde detta.
+För att ändra positionen i datepicker samt button var det layout_gravity som möjligjorde detta.
 Koden gör att elementen centreras.
 ```
 android:layout_gravity="center"
