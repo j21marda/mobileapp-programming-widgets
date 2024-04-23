@@ -13,7 +13,8 @@
         android:layout_height="wrap_content"
         android:background="@color/colorAccent"
         android:layout_margin="25dp"
-        android:text="text"/>
+        android:text="text"
+        android:textSize="35sp"/>
 
 
     <DatePicker
